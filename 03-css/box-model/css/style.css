@@ -1,0 +1,35 @@
+div{
+    border: red solid 2px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+    margin: 20px 40px 60px 80px;
+}
+
+h1{
+    border: green solid 2px;
+    /* padding: 100px; */
+    /* margin-left: 20px;
+    margin-right: 20px; */
+    width: 50%;
+}
+
+p{
+    background-color: lightblue;
+    border: blue solid 2px;
+    /* margin-left: 20px;
+    margin-right: 20px; */
+    margin-top: 100px;
+    padding: 20px 40px 60px;
+}
+a{
+    border: solid 2px purple;
+    padding: 20px;
+    margin: 20px;
+}
+img{
+    width: 100px;
+    border: 2px orange solid;
+    margin: 0 auto 0;
+    display: block;
+}

@@ -1,0 +1,34 @@
+.bg-purple{
+    background-color: rebeccapurple;
+}
+
+#upper-case{
+    text-transform: uppercase;
+}
+
+h1{
+    color:mediumorchid;
+}
+
+h3{
+    background-color: chartreuse;
+    color: white;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+li{
+    list-style: none;
+}
+.lower-case{
+    text-transform: lowercase;
+}
+
+h3:hover{
+    background-color: hotpink;
+}
+
+.bg-purple:hover{
+    background-color: orange;
+}
