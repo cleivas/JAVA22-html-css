@@ -1,0 +1,22 @@
+div{
+    border: 2px solid #6664cd;
+    padding: 1rem;
+}
+.yellow{
+    background-color: #fff9c8;
+    display: flex;
+    justify-content: space-between;  
+}
+.violet{
+    background-color: #e6e6fa;
+    flex-basis: 44%;
+
+    height: 10rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.green{
+    background-color: #40e0d0;
+    flex-basis:2.2rem;
+}

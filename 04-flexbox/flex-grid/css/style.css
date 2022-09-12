@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+}
+
+article{
+    border: 2px plum solid;
+    margin: 0 2% 1rem;
+}
+
+img{
+    width: 100%;
+    max-width: 200px;
+}
+
+div{
+    display: flex;
+}
+
+.span-1{
+    flex-basis: 21%;
+}
+
+.span-2{
+    flex-basis: 46%
+}
+.span-3{
+    flex-basis: 71%
+}
+.span-4{
+    flex-basis: 96%;
+}
