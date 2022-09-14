@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    /* border: 2px solid red; */
+    display: flex;
+
+    flex-flow: row nowrap;
+    justify-content: center;
+}
+a{
+    /* border: 1px solid green; */
+    /* flex-basis: 20%; */
+    margin: .2rem;
+    padding: .8rem;
+    text-decoration: none;
+    color: #043b54;
+    font-family: sans-serif;
+    text-transform: uppercase;
+
+    transition: border-bottom .2s;
+}
+a:hover{
+    border-bottom: 2px solid #ff576a;
+}

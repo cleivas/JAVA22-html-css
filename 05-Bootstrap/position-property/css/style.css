@@ -1,0 +1,15 @@
+div{
+    box-sizing: border-box;
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    background-color: skyblue;
+    display: inline-block;
+}
+
+div:nth-child(3){
+    background-color: orange;
+
+    position: sticky !important;
+    top: 0px;
+}
